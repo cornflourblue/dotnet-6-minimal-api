@@ -2,4 +2,4 @@
 
 .NET 6.0 - Minimal API Tutorial and Example
 
-Documentation coming soon!
+Documentation at https://jasonwatmore.com/post/2022/02/04/net-6-minimal-api-tutorial-and-example
